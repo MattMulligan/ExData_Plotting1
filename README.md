@@ -1,3 +1,9 @@
+## Instructions / Notes
+this is my github repository for the week 1 assignment of exploritory data analysis
+I have uploaded 4 plot PNG files described in the assingment instructions, as well as R files to recreate all of them
+the R files will download and unzip the required data for the plots, so as long as you have internet access the scripts will run
+
+
 ## Introduction
 
 This assignment uses data from
@@ -111,4 +117,3 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
